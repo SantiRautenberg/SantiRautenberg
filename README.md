@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Santiago Rautenberg — Redes informáticas y programación" width="100%" />
+  <img src="download.svg" alt="Santiago Rautenberg — Redes informáticas y programación" width="100%" />
 </p>
 
 Estudiante de **Redes Informáticas en la Universidad Nacional de San Martín**, Buenos Aires, Argentina.
