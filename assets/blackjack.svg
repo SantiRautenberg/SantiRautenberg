@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="94" viewBox="0 0 720 94">
+<rect x="1" y="1" width="718" height="92" rx="10" fill="#142237" stroke="#45627e"/>
+<g font-family="system-ui, sans-serif"><text x="20" y="40" fill="#f0f4f8" font-size="22" font-weight="600">Blackjack en Assembly</text><text x="20" y="69" fill="#b9cddd" font-size="17">Interfaz gráfica e interrupciones de teclado y video.</text><text x="670" y="39" text-anchor="end" fill="#9ac0df" font-size="16">Assembly 8086</text><text x="702" y="39" text-anchor="end" fill="#9ac0df" font-size="18">↗</text></g>
+</svg>
